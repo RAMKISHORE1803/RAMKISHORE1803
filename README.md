@@ -1,32 +1,23 @@
-<!-- prettier-ignore-start -->
-<h1 align="center">Hey there, I'm <span>YOUR NAME</span> 👋</h1>
+# Hi, I'm [Your Name] 👋
+
+🛠️ Full-Stack Developer | SDE @ SellCX | Frontend @ Attacked AI | Software Developer @ Generex  
+🎓 B.Tech IIITK'27  
+🌐 Building AI-first web & voice products | 🤝 Open for freelance & collaborations
+
+---
+
+### 🔥 GitHub Stats
+
 <p align="center">
-  <em>Full-Stack Developer&nbsp;•&nbsp;Freelancer&nbsp;•&nbsp;AI-native Builder</em><br/>
-  <strong>SDE&nbsp;@&nbsp;<a href="https://sellcx.com">SellCX</a></strong> ·
-  <strong>Frontend&nbsp;@&nbsp;<a href="https://attacked.ai">Attacked AI</a></strong><br/>
-  B.Tech CSE, IIITK ’27
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&hide_border=true&theme=default" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
 </p>
 
 ---
 
-### 🚀 What I’m building
-- **Voice & WhatsApp AI ordering systems** for restaurants  
-- **AI-first websites** & MVPs for founders through my agency  
-- **Knowledge-graph pipelines** @ Generex
+### 📬 Connect with me
+[LinkedIn](https://linkedin.com/in/yourlinkedin) | [Twitter](https://twitter.com/yourtwitter) | [Portfolio](https://yourwebsite.com)
 
-### 🛠 Tech toolbox
-`TypeScript` · `Next.js` · `React` · `Node` · `Supabase` · `PostgreSQL` · `LiveKit` · `OpenAI` · `Tailwind` · `AWS/GCP`
-
-### 🌱 Currently learning
-- Real-time voice AI orchestration  
-- Edge-first deployment strategies  
-- Growth hacking for indie products
-
-### 🤝 Let’s collaborate
-I love partnering on ambitious ideas—especially **AI-driven SaaS, dev-tools, and OSS**.  
-Feel free to DM on **Twitter @yourhandle** or drop an email to **you@example.com**.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GH_USERNAME&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-</p>
-<!-- prettier-ignore-end -->
