@@ -1,7 +1,7 @@
-# Hey there, I'm Ramkishore 👋
+# Hey there, I'm Ramkishore 👋🏻
 
-Full-Stack Developer • Freelancer • AI-native Builder  
-Frontend Engineer @ Attacked AI (London, UK) · SDE @ Generex (Miami, Florida, USA)  
+Full-Stack Engineer • Freelancer • AI-native Builder  
+SDE @ Generex (Miami, Florida, USA) · Frontend Engineer @ Attacked AI (London, UK) 
 B.Tech IIITK'27  
 
 ---
