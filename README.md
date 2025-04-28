@@ -1,23 +1,30 @@
-# Hi, I'm [Your Name] 👋
+# Hey there, I'm Ramkishore 👋
 
-🛠️ Full-Stack Developer | SDE @ SellCX | Frontend @ Attacked AI | Software Developer @ Generex  
-🎓 B.Tech IIITK'27  
-🌐 Building AI-first web & voice products | 🤝 Open for freelance & collaborations
+Full-Stack Developer • Freelancer • AI-native Builder  
+SDE @ Generex  
+B.Tech IIITK'27  
 
 ---
 
-### 🔥 GitHub Stats
+### 🌟 What I’m Building
+- Voice & WhatsApp AI ordering systems for restaurants
+- AI-first websites & MVPs for founders through my agency
+- Knowledge-graph pipelines and modular outcome engines at Generex
 
+---
+
+### 🛠 Tech Toolbox
+TypeScript · Next.js · React · Node.js · Supabase · PostgreSQL · LiveKit · OpenAI · Tailwind CSS · AWS/GCP
+
+---
+
+### 🤝 Let’s Collaborate
+I partner with startups and businesses to build cutting-edge AI-first products — from scalable SaaS platforms to real-time voice and chat applications.  
+Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/ramkishore-m/) or drop an email at **mramki1803@gmail.com**.
+
+---
+
+### 🌱 Contributions
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&hide_border=true&theme=default" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
 </p>
-
----
-
-### 📬 Connect with me
-[LinkedIn](https://linkedin.com/in/yourlinkedin) | [Twitter](https://twitter.com/yourtwitter) | [Portfolio](https://yourwebsite.com)
-
