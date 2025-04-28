@@ -25,7 +25,7 @@ Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/ramkishore-m/) or d
 ---
 
 ### 🌱 Contributions
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAMKISHORE1803&hide_border=true&theme=default" alt="GitHub Streak" />
-</p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAMKISHORE1803&hide_border=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RAMKISHORE1803&theme=github-compact" alt="GitHub Contribution Graph" />
+</p>
