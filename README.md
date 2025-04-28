@@ -1,7 +1,7 @@
 # Hey there, I'm Ramkishore 👋
 
 Full-Stack Developer • Freelancer • AI-native Builder  
-SDE @ Generex  
+Frontend Engineer @ Attacked AI (London, UK) · SDE @ Generex (Miami, Florida, USA)  
 B.Tech IIITK'27  
 
 ---
@@ -9,7 +9,7 @@ B.Tech IIITK'27
 ### 🌟 What I’m Building
 - Voice & WhatsApp AI ordering systems for restaurants
 - AI-first websites & MVPs for founders through my agency
-- Knowledge-graph pipelines and modular outcome engines at Generex
+- Frontend systems, real-time API integrations, and voice-enabled applications at Generex
 
 ---
 
@@ -26,5 +26,5 @@ Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/ramkishore-m/) or d
 
 ### 🌱 Contributions
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&hide_border=true&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAMKISHORE1803&hide_border=true&theme=default" alt="GitHub Streak" />
 </p>
