@@ -6,14 +6,14 @@ B.Tech IIITK'27
 
 ---
 
-### 🌟 What I’m Building
+### What I’m Building
 - Voice & WhatsApp AI ordering systems for restaurants
 - AI-first websites & MVPs for founders through my agency
 - Frontend systems, real-time API integrations, and voice-enabled applications at Generex
 
 ---
 
-### 🛠 Tech Toolbox
+### Tech 
 TypeScript · Next.js · React · Node.js · Supabase · PostgreSQL · LiveKit · OpenAI · Tailwind CSS · AWS/GCP
 
 ---
