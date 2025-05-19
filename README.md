@@ -1,23 +1,7 @@
 # Hey there, I'm Ramkishore 👋🏻
 
 Full-Stack Engineer • Freelancer • AI-native Builder  
-SDE @ Generex (Miami, Florida, USA) · Frontend Engineer @ Attacked AI (London, UK) 
-B.Tech IIITK'27  
-
 ---
-
-### What I’m Building
-- Voice & WhatsApp AI ordering systems for restaurants
-- AI-first websites & MVPs for founders through my agency
-- Frontend systems, real-time API integrations, and voice-enabled applications at Generex
-
----
-
-### Tech 
-TypeScript · Next.js · React · Node.js · Supabase · PostgreSQL · LiveKit · OpenAI · Tailwind CSS · AWS/GCP
-
----
-
 ### 🤝 Let’s Collaborate
 I partner with startups and businesses to build cutting-edge AI-first products — from scalable SaaS platforms to real-time voice and chat applications.  
 Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/ramkishore-m/) or drop an email at **ram@ramkishore.in** or **team@ramkishore.in**
