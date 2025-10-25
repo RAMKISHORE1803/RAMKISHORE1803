@@ -1,6 +1,6 @@
 # Hey there, I'm Ramkishore 👋🏻
 
-Full-Stack Engineer • Freelancer • AI-native Builder  
+Full-Stack Engineer • AI-native Builder  
 ---
 ### Let’s Collaborate
 I partner with startups and businesses to build AI-first products from SaaS platforms to real-time voice and chat applications.  
